@@ -1,0 +1,38 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    box-shadow: 6px 6px 6px black;
+    margin: 0;
+    padding: 5px;
+    height: 100px;
+    color: black;
+    font-weight: 600;
+}
+.note{
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+}
+.footer{
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    color: white;
+    background-color: cadetblue;
+    line-height: 3;
+    text-shadow: 2px 2px 2px grey;
+    font-size: 22px;
+}
+#font-size{
+    font-size: 20px;
+}
+canvas{
+border-radius: 20px;
+border: 4px solid cornflowerblue;
+box-shadow: 5px 5px 5px grey;
+background-color: azure;
+}
+body{
+    background-image: url(https://betterthansuccess.com/wp-content/uploads/2016/06/font-example.jpg);
+}
